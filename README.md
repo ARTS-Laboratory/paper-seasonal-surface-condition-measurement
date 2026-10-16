@@ -1,9 +1,9 @@
 # Topological Fusion Lidar Embankments
 
 ## Overview
-This repo provides a minimal, easy-to-follow implementation of the core ideas introduced in the paper "Topological Data Fusion of Multi-Season LiDAR Observations for Monitoring of Expansive Clay Embankments". It is intended to help readers understand, reproduce, and experiment with the proposed methods.
+This repo provides a minimal, easy-to-follow implementation of the core ideas introduced in the paper "Seasonal surface condition measurement of expansive clay embankments based on consensus topological analysis of LiDAR point clouds". It is intended to help readers understand, reproduce, and experiment with the proposed methods.
 
-## files description:
+## File description:
 The main file associated with this paper is "Fusion_paper," which contains different folders for each analysis in the paper. The associated explanations for each code are included in this folder as README.md.
 
 # Fusion_paper
@@ -42,12 +42,11 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this as: 
 
-@misc{Zardian2026TDAFusionRepo,
-	author = {Zardian, Mohsen and Feng, Weicong and Zohuruzzaman, A. Q. M. and Downey, Austin R. J. Wei, Jie and Khan, Sadik and Schrader, Paul T. and Blasch, Erik and Ardiles-Cruz, Erika and Bakos, Jason and Imran, Jasim},
-	title = {Paper: Topological Data Fusion of Multi-Season LiDAR Observations for Embankment Monitoring},
-	year = {2026},
-	howpublished = {\url{https://github.com/ARTS-Laboratory/paper-topological-fusion-lidar-embankments}},
-	note  = {GitHub repository, ARTS Laboratory}
+@misc{Zardian2026TDAFusionRepo,   
+	author = {Zardian, Mohsen and Feng, Weicong and Zohuruzzaman, A. Q. M. and Downey, Austin R. J. Wei, Jie and Khan, Sadik and Schrader, Paul T. and Blasch, Erik and Ardiles-Cruz, Erika and Bakos, Jason and Imran, Jasim},   
+	title = {Paper: Topological Data Fusion of Multi-Season LiDAR Observations for Embankment Monitoring},   
+	year = {2026},   
+	howpublished = {https://github.com/ARTS-Laboratory/paper-topological-fusion-lidar-embankments},   
 }
 
 
