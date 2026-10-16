@@ -1,4 +1,5 @@
-# Topological Fusion Lidar Embankments
+# Paper: Seasonal Surface Condition Measurement
+
 
 ## Overview
 This repo provides a minimal, easy-to-follow implementation of the core ideas introduced in the paper "Seasonal surface condition measurement of expansive clay embankments based on consensus topological analysis of LiDAR point clouds". It is intended to help readers understand, reproduce, and experiment with the proposed methods.
