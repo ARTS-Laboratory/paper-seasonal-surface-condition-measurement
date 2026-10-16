@@ -44,7 +44,7 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 Cite this as: 
 
 @misc{Zardian2027PaperSeasonalSurface,   
-	author = {Zardian, Mohsen and Feng, Weicong and Zohuruzzaman, A. Q. M. and Downey, Austin R. J. Wei, Jie and Khan, Sadik and Schrader, Paul T. and Blasch, Erik and Ardiles-Cruz, Erika and Bakos, Jason and Imran, Jasim},   
+	author = {Zardian, Mohsen and Feng, Weicong and Zohuruzzaman, A. Q. M. and Downey, Austin R. J. Wei, Jie and Khan, Sadik},   
 	title = {Paper: Seasonal Surface Condition Measurement},   
 	year = {2027},   
 	howpublished = {https://github.com/ARTS-Laboratory/paper-seasonal-surface-condition-measurement},   
