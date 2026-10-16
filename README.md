@@ -43,11 +43,11 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this as: 
 
-@misc{Zardian2026TDAFusionRepo,   
+@misc{Zardian2027PaperSeasonalSurface,   
 	author = {Zardian, Mohsen and Feng, Weicong and Zohuruzzaman, A. Q. M. and Downey, Austin R. J. Wei, Jie and Khan, Sadik and Schrader, Paul T. and Blasch, Erik and Ardiles-Cruz, Erika and Bakos, Jason and Imran, Jasim},   
-	title = {Paper: Topological Data Fusion of Multi-Season LiDAR Observations for Embankment Monitoring},   
-	year = {2026},   
-	howpublished = {https://github.com/ARTS-Laboratory/paper-topological-fusion-lidar-embankments},   
+	title = {Paper: Seasonal Surface Condition Measurement},   
+	year = {2027},   
+	howpublished = {https://github.com/ARTS-Laboratory/paper-seasonal-surface-condition-measurement},   
 }
 
 
