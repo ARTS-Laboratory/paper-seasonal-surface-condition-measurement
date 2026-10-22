@@ -47,7 +47,8 @@ Cite this as:
 	author = {Zardian, Mohsen and Feng, Weicong and Zohuruzzaman, A. Q. M. and Downey, Austin R. J. Wei, Jie and Khan, Sadik},   
 	title = {Paper: Seasonal Surface Condition Measurement},   
 	year = {2027},   
-	howpublished = {https://github.com/ARTS-Laboratory/paper-seasonal-surface-condition-measurement},   
+	howpublished = {GitHub},   
+	url = {https://github.com/ARTS-Laboratory/paper-seasonal-surface-condition-measurement},   
 }
 
 
